@@ -1,1 +1,1 @@
-# A Collection of Projects built with HTML, CSS3 and/or JavaScript
+# A Collection of Projects built with HTML, CSS, SCSS and/or JavaScript
