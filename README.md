@@ -19,3 +19,5 @@
 * <a href="https://github.com/olivernjeru/landing-page-clones/landing_pages/tree/main/spacex">SpaceX Landing Page Clone</a>
 
 * <a href="https://github.com/olivernjeru/landing-page-clones/landing_pages/tree/main/starbucks">Starbucks Landing Page Clone</a>
+
+* <a href="https://github.com/olivernjeru/landing-page-clones/tree/main/static_websites/transparentloginpage">Transparent Login Page</a>
