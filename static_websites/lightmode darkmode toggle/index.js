@@ -1,0 +1,1 @@
+document.querySelector('.switch').addEventListener('input', () => document.querySelector('.red').classList.toggle('checked'))
