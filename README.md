@@ -25,6 +25,6 @@
 
 * <a href="https://github.com/olivernjeru/landing-page-clones/tree/main/static_websites/slideshow">Slideshow</a>
 
-* <a href="https://github.com/olivernjeru/landing-page-clones/tree/main/static_websites/Sports=Teams-Mini-Project">Sports Team Mini Project</a>
+* <a href="https://github.com/olivernjeru/landing-page-clones/tree/main/static_websites/Sports-Teams-Mini-Project">Sports Team Mini Project</a>
 
 * <a href="https://github.com/olivernjeru/landing-page-clones/tree/main/static_websites/transparentloginpage">Transparent Login Page</a>
