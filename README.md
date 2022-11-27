@@ -9,11 +9,11 @@
 
 * <a href="https://github.com/olivernjeru/landing-page-clones/tree/main/landing_pages/microsoft">Microsoft Landing Page Clone</a>
 
-* <a href="https://github.com/olivernjeru/landing-page-clones/landing_pages/tree/main/netflix">Netflix Landing Page Clone</a>
+* <a href="https://github.com/olivernjeru/landing-page-clones/tree/main/landing_pages/netflix">Netflix Landing Page Clone</a>
 
-* <a href="https://github.com/olivernjeru/landing-page-clones/landing_pages/tree/main/spacex">SpaceX Landing Page Clone</a>
+* <a href="https://github.com/olivernjeru/landing-page-clones/tree/main/landing_pages/spacex">SpaceX Landing Page Clone</a>
 
-* <a href="https://github.com/olivernjeru/landing-page-clones/landing_pages/tree/main/starbucks">Starbucks Landing Page Clone</a>
+* <a href="https://github.com/olivernjeru/landing-page-clones/tree/main/landing_pages/starbucks">Starbucks Landing Page Clone</a>
 
 
 # Static Websites
