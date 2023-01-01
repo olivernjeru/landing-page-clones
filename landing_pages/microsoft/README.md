@@ -1,6 +1,6 @@
 # Microsoft Landing Page Clone
 
-<img src="../assets/microsoft-landing-page-screenshot">
+![microsoft-landing-page-screenshot](https://user-images.githubusercontent.com/51198797/210174555-2604dde9-f33e-400a-b502-afc375bc47f8.png)
 
 <h3>Technologies Used: </h3>
 <p>HTML, CSS, JavaScript</p>
