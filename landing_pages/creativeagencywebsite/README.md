@@ -1,6 +1,6 @@
 # Creative Agency Website
 
-<img src="../assets/creative-agency-landing-page-screenshot">
+![creative-agency-landing-page-screenshot](https://user-images.githubusercontent.com/51198797/210174520-cbafc808-e2dc-4f0d-8f29-44407627be22.png)
 
 <h3>Technologies Used: </h3>
 <p>HTML, CSS, JavaScript</p>
