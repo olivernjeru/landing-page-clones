@@ -1,6 +1,6 @@
 # Hulu Landing Page Clone
 
-<img src="../assets/hulu-landing-page-screenshot">
+![hulu-landing-page-screenshot](https://user-images.githubusercontent.com/51198797/210174539-81e31243-5e36-452c-8d5e-88e5c2062137.png)
 
 <h3>Technologies Used: </h3>
 <p>HTML, CSS</p>
