@@ -1,5 +1,6 @@
 # Starbucks Landing Page Clone
 
+<img src="../assets/starbucks-landing-page-screenshot">
 
 <h3>Technologies Used: </h3>
 <p>Visual Studio Code, HTML & CSS, JavaScript, GitHub</p>

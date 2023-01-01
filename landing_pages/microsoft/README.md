@@ -1,5 +1,7 @@
 # Microsoft Landing Page Clone
 
+<img src="../assets/microsoft-landing-page-screenshot">
+
 <h3>Technologies Used: </h3>
 <p>HTML, CSS, JavaScript</p>
 
