@@ -1,6 +1,6 @@
 # Starbucks Landing Page Clone
 
-<img src="../assets/starbucks-landing-page-screenshot">
+![starbucks-landing-page-screenshot](https://user-images.githubusercontent.com/51198797/210174573-76e9b5fd-0afb-4488-b786-9098edc08c7b.png)
 
 <h3>Technologies Used: </h3>
 <p>Visual Studio Code, HTML & CSS, JavaScript, GitHub</p>
